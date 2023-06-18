@@ -6,3 +6,4 @@
 >Keywords: recession; faculty hiring; workforce diversity; economic crisis; STEM
 ##### *Citation: Kim, Kwan Woo, Alexandra Kalev, Frank Dobbin, Gal Deutsch. 2021. _Sociological Science_ 8:308–24. doi: 10.15195/v8.a15.
 #The data file is available to download from https://www.dropbox.com/s/f1gxqvvvra4b7on/Crisis_and_uncertainty.dta.zip?dl=0
+![](https://komarev.com/ghpvc/?username=your-github-username)
