@@ -19,8 +19,8 @@ frame change crisis
 clear
 
 *Set directory
-global datadir "/Users/kwan/Documents/Google Drive/Projects/Universities/Team folders/Universities Project/Recession and Diversity/Post acceptance/Replication_Github/Data/"
-global outputdir "/Users/kwan/Documents/Google Drive/Projects/Universities/Team folders/Universities Project/Recession and Diversity/Post acceptance/Replication_Github/Tables and figures"
+global datadir "{Your_directory}/Replication_Github/Data/"
+global outputdir "{Your_directory}/Replication_Github/Tables and figures"
 
 use "${datadir}/Crisis_and_uncertainty.dta", clear
 
